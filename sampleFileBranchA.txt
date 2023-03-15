@@ -1,2 +1,2 @@
 Some new text
-BranchA file
+Branch_A file
